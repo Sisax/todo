@@ -1,0 +1,6 @@
+click event
+ami az input értékét átrakja egy variable-be
+
+append ami a variable értékét beírja a listába
+
+input értékének törlése 
